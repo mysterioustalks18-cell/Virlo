@@ -1,0 +1,8 @@
+{
+  "name": "VIRLO",
+  "description": "Create What Wins. Advanced viral prediction engine, thumbnail visual analyzer, and clickability optimization suite for professional creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
